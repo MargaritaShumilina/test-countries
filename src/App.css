@@ -1,0 +1,12 @@
+.countryTable {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  grid-template-rows: auto;
+  box-sizing: border-box;
+  margin: auto;
+  background-color: azure;
+  padding: 50px;
+  max-width: 1200px;
+  width: 100%;
+  gap: 15px;
+}

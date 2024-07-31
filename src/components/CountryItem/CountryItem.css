@@ -1,0 +1,13 @@
+.countryTable__item {
+    margin: 0;
+    border-radius: 15px;
+    text-align: center;
+    box-shadow: 2px 2px 5px #808086;
+    padding: 10px;
+    font-size: 18px;
+}
+
+.countryTable__item:hover {
+    cursor: pointer;
+    box-shadow: 3px 3px 6px #000;
+}
